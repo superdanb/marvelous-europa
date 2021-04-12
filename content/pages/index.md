@@ -8,6 +8,15 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
+      - label: Yael's button
+        url: '#'
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
       - label: Vered's Button
         url: '#'
         style: primary
@@ -26,15 +35,6 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-      - label: Yael's button
-        url: '#'
-        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
