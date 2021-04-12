@@ -17,9 +17,10 @@ seo:
 layout: post
 image: images/brandon-guidelines.png
 ---
-## Lorem ipsum
+# Lorem ipsum
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+1.  Lorem ipsum
+
+2.  dolor sit amet
