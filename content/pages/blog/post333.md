@@ -2,7 +2,8 @@
 title: My first post
 subtitle: lorem-ipsum
 date: '2021-04-12'
-categories: []
+categories:
+  - content/data/categories/news.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
