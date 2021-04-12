@@ -23,7 +23,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Vered's Button
         url: '#'
         style: link
         has_icon: false
