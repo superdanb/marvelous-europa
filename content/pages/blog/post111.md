@@ -2,7 +2,8 @@
 title: BLah blah
 subtitle: lorem-ipsum
 date: '2021-04-12'
-categories: []
+categories:
+  - content/data/categories/category-9uu7jnb80.json
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
