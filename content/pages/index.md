@@ -8,13 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-      - label: Try Free
-        url: /pricing
-        style: primary
-      - label: lorem-ipsum
+      - label: Vered's Button
         url: '#'
         style: primary
         has_icon: false
@@ -23,7 +17,13 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Vered's Button
+      - label: Learn More
+        url: /features
+        style: secondary
+      - label: Try Free
+        url: /pricing
+        style: primary
+      - label: lorem-ipsum
         url: '#'
         style: primary
         has_icon: false
