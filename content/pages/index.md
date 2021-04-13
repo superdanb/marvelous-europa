@@ -32,15 +32,6 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-      - label: lorem-ipsum
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
     image: images/about-2.jpg
     image_alt: Hero section placeholder image
     media_position: left
